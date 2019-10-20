@@ -70,6 +70,5 @@ task add due:2019-10-01 proj:uni.astro.exer  exercise nr=w5 topic=18.6-18.11 lec
 task add due:2019-10-08 proj:uni.astro.exer  exercise nr=w6 topic=3.1-3.4 lect.topic=circular restricted three body problem
 task add due:2019-10-08 proj:uni.astro.exer  exercise nr=w6 topic=3.6-3.7 lect.topic=circular restricted three body problem
 task add due:2019-10-10 proj:uni.astro.exer  exercise nr=w6 topic=9.1-9.4 lect.topic=relative motion (Hill/CW equations)
-bash: syntax error near unexpected token `('
 task add due:2019-10-15 proj:uni.astro.exer  exercise nr=w7 topic=14.1 lect.topic=phasing orbits and rendez vous
 task add due:2019-10-17 proj:uni.astro.exer  exercise nr=w7 topic=15.1-15.4 lect.topic=perturbations
