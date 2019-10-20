@@ -1,7 +1,7 @@
 # AE4874-I-Fundamentals-of-Astrodynamics content:
 
-1. The complete course planning. (It automatically compiles a pdf with the planning, and more importantly, it automatically generates all the taskwarrior commands to add your tasks to your tasklist (taskwarrior).)
-2. Old exam solutions, please contribute with your solutions! (just git clone, type your solution in the latex and send me a pull request.)
+1. The complete course planning. (It automatically compiles a pdf with the planning, and more importantly, it automatically generates all the taskwarrior commands to add your tasks to your tasklist (taskwarrior).) * Will be available again 2019-10-20T12:00
+2. Old exam solutions templates, the actual solutions are in a private repo shared with collaborators.
 
 
 # How to use
