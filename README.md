@@ -3,6 +3,11 @@
 1. The complete course planning. (It automatically compiles a pdf with the planning, and more importantly, it automatically generates all the taskwarrior commands to add your tasks to your tasklist (taskwarrior).)
 2. Old exam solutions templates, the actual solutions are in a private repo shared with collaborators.test
 
+Below are 3 explenations:
+ 0. How to add yourself as collaborator to the list.
+ 1. How to request a review of your solution
+ 2. How to use Texworks for off-line latex editing (You can also just import to overleaf if you want.)
+
 # Add yourself as collaborator.
 Short: 
 0. git- fork, 
@@ -44,7 +49,7 @@ Exact steps:
 ![1](./HowToUseTexMaker/addYourself/14.jpeg)
 14. git pull/ git fetch before you push, forgot screenshot.
 ![1](./HowToUseTexMaker/addYourself/15.png)
-15. Then after saving your xlsm and closing it, pres git push
+15. Then after saving your xlsm and closing it, press git push (If you get auth error, you probably cloned my repository instead of your fork/copy of my repository {You are trying to push to my public repository while you're not a collaborator in that, hence you don't have the authentication to push  to it}.  Please go back to step 1 and try again.)
 ![1](./HowToUseTexMaker/addYourself/16.jpeg)
 16.  Then in your ownforked/copied  repository/github of this course click"new pull request"
 ![1](./HowToUseTexMaker/addYourself/17.jpeg)
@@ -58,9 +63,43 @@ Exact steps:
 20.And then merge your pull request to my/the main repo.
 
 ![1](./HowToUseTexMaker/addYourself/21me.jpeg)
-Thats it, now make an exam solution in the latex template, and send me a pull request again, (like just described, to gain access :))
-22.
 
+21. Thats it, now make an exam solution in the latex template.
+
+## Request review of your solution
+
+22.a First make sure you have the latex files and a compiled pdf in the folder `examSolutions/<exam date>` of your local copy of your personal fork/copy of my public repository. Then open your browser, browse to your fork of my public repository.
+
+22.b Now click settings in your fork of this repository
+
+![1](./HowToUseTexMaker/inviteCollab/a.png)
+
+23. That brings you to the settings tab as depicted:
+
+![1](./HowToUseTexMaker/inviteCollab/b.png)
+
+24. Scroll all the way down (Right into the danger zone, Kenny Loggins would be proud). Make sure you have a github pro account with your academic licence. Then click "Make private".
+
+
+![1](./HowToUseTexMaker/inviteCollab/c.png)
+
+25. Type the name of the repository (EXACTLY) so for different course, different repository name.
+
+![1](./HowToUseTexMaker/inviteCollab/d.png)
+
+26. Then click collaborators
+
+![1](./HowToUseTexMaker/inviteCollab/e.png)
+
+27. Type your password to continue.
+
+![1](./HowToUseTexMaker/inviteCollab/f.png)
+
+28. Then add me, `a-t-0` as collaborator and click invite. 
+
+![1](./HowToUseTexMaker/inviteCollab/g.png)
+
+29. That's it. Now I will inspect it, and if your solutions are complete you will be granted access to the private repository (where you can upload your solution).
 
 # How to use
 0. You can git clone this repository
